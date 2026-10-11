@@ -1,0 +1,35 @@
+/* Primitive color tokens — source: Figma file hBDP7imo4oT3XaUTDvUKgO, nodes 59:246 (Orange), 59:636 (Yellow), 59:883 (Black) */
+:root {
+  --color-orange-50: #fbebe7;
+  --color-orange-100: #f2c1b4;
+  --color-orange-200: #eca38f;
+  --color-orange-300: #e3785c;
+  --color-orange-400: #dd5e3d;
+  --color-orange-500: #d5360c;
+  --color-orange-600: #c2310b;
+  --color-orange-700: #972609;
+  --color-orange-800: #751e07;
+  --color-orange-900: #591705;
+
+  --color-yellow-50: #fdfbf8;
+  --color-yellow-100: #f7f2eb;
+  --color-yellow-200: #f4ece1;
+  --color-yellow-300: #eee3d3;
+  --color-yellow-400: #ebddca;
+  --color-yellow-500: #e6d5bd;
+  --color-yellow-600: #d1c2ac;
+  --color-yellow-700: #a39786;
+  --color-yellow-800: #7f7568;
+  --color-yellow-900: #61594f;
+
+  --color-black-50: #e7e7e7;
+  --color-black-100: #b5b5b5;
+  --color-black-200: #919191;
+  --color-black-300: #5f5f5f;
+  --color-black-400: #404040;
+  --color-black-500: #101010;
+  --color-black-600: #0f0f0f;
+  --color-black-700: #0b0b0b;
+  --color-black-800: #090909;
+  --color-black-900: #070707;
+}
